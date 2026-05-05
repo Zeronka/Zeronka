@@ -11,7 +11,7 @@
 **Языки программирования:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,cs,kotlin,html,css,js" />
   </a>
 </p>
 
@@ -20,7 +20,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,dotnet" />
   </a>
-
 </p>
 
 **Инструменты и среда:**
@@ -38,13 +37,17 @@
    * *Стек:* FastAPI, PostgreSQL, JWT.
    * Разработка бэкенд-части сервиса для автоматизации бизнес-процессов.
 
-2. **[Bank System](https://github.com/Zeronka/Bank_System)**
+2. **[Project Bank Account](https://github.com/Zeronka/Project_Bank_Account)**
    * *Стек:* C#, .NET.
-   * Проект банковской системы на C#, реализующий логику управления счетами и транзакциями.
+   * Реализация логики управления банковскими счетами, работа с балансом и операциями.
 
-3. **[Frontend Portfolio Project (HTML/JS)](https://github.com/Zeronka/html-js)**
+3. **[Bank System](https://github.com/Zeronka/Bank_System)**
+   * *Стек:* C#, .NET.
+   * Комплексная система для банковских транзакций и управления пользователями.
+
+4. **[Frontend Portfolio Project (HTML/JS)](https://github.com/Zeronka/html-js)**
    * *Стек:* HTML5, JavaScript.
-   * Работа с версткой и базовой логикой на стороне клиента, создание интерактивных элементов интерфейса.
+   * Разработка клиентской части, верстка и создание интерактивных элементов интерфейса.
 
 ---
 
