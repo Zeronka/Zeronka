@@ -11,7 +11,7 @@
 **Языки программирования:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,kotlin,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
   </a>
 </p>
 
