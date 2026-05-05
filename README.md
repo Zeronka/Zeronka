@@ -51,14 +51,6 @@
    * *Стек:* HTML5, JavaScript.
    * Разработка клиентской части, верстка и создание интерактивных элементов интерфейса.
 
----
-
-### 📊 Активность на GitHub
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeronka&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
-
----
 
 ### 📫 Как со мной связаться:
 * **Telegram:** [@Zeronka1](https://t.me/Zeronka1)
