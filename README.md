@@ -25,7 +25,7 @@
 **Инструменты и среда:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,docker,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,docker,postgresql,git,github&theme=dark" />
   </a>
 </p>
 
