@@ -43,10 +43,9 @@
 
 ---
 
-### 📈 Статистика GitHub
+### 📊 Активность за последнее время
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeronka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeronka&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeronka&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
