@@ -10,17 +10,23 @@
 
 **Языки программирования:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,kotlin,javascript" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,kotlin" />
+  </a>
 </p>
 
-**Front-end и дизайн:**
+**Фреймворки и библиотеки:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,figma" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,dotnet" />
+  </a>
 </p>
 
 **Инструменты и среда:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,git,github" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,docker,git,github" />
+  </a>
 </p>
 
 ---
@@ -28,12 +34,12 @@
 ### 🚀 Мои ключевые проекты
 
 1. **[Веб-приложение для управления бизнесами](https://github.com/RPO23-1PRAKTIKA)**
-   *   *Стек:* FastAPI, PostgreSQL, JWT.
-   *   Разработка бэкенд-части сервиса для автоматизации бизнес-процессов.
+   * *Стек:* FastAPI, PostgreSQL, JWT.
+   * Разработка бэкенд-части сервиса для автоматизации бизнес-процессов.
 
 2. **[Bank System](https://github.com/Zeronka/Bank_System)**
-   *   *Стек:* C#, .NET.
-   *   Проект банковской системы, реализующий логику управления счетами, транзакциями и пользователями. Демонстрирует владение ООП и принципами разработки на языке C#.
+   * *Стек:* C#, .NET.
+   * Проект банковской системы на C#, реализующий логику управления счетами и транзакциями.
 
 ---
 
@@ -46,5 +52,5 @@
 ---
 
 ### 📫 Как со мной связаться:
-*   **Telegram:** [@Zeronka1](https://t.me/Zeronka1)
-*   **Email:** [yan.aliyev.2000@mail.ru](mailto:yan.aliyev.2000@mail.ru)
+* **Telegram:** [@Zeronka1](https://t.me/Zeronka1)
+* **Email:** [yan.aliyev.2000@mail.ru](mailto:yan.aliyev.2000@mail.ru)
