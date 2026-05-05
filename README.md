@@ -11,7 +11,7 @@
 **Языки программирования:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs" />
+    <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
   </a>
 </p>
 
@@ -20,12 +20,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,dotnet" />
   </a>
+
 </p>
 
 **Инструменты и среда:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,docker,git,github&theme=dark" />
   </a>
 </p>
 
@@ -41,9 +42,13 @@
    * *Стек:* C#, .NET.
    * Проект банковской системы на C#, реализующий логику управления счетами и транзакциями.
 
+3. **[Frontend Portfolio Project (HTML/JS)](https://github.com/Zeronka/html-js)**
+   * *Стек:* HTML5, JavaScript.
+   * Работа с версткой и базовой логикой на стороне клиента, создание интерактивных элементов интерфейса.
+
 ---
 
-### 📊 Активность за последнее время
+### 📊 Активность на GitHub
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeronka&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
