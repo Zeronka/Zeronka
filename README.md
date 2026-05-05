@@ -1,4 +1,4 @@
-# Привет! Я Ян 👋
+# Меня зовут Ян 👋
 
 ### Python Backend Developer (FastAPI) & C# Developer
 
