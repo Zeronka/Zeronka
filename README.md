@@ -1,57 +1,147 @@
-# Меня зовут Ян 
+# Ян
 
-### Python Backend Developer (FastAPI) & C# Developer
+### Python Backend Developer (FastAPI) | C# Developer
 
-# 👨‍💻 О моей профессиональной деятельности
-Я специализируюсь на проектировании и реализации высоконагруженных и отказоустойчивых серверных систем. Мой подход базируется на обеспечении максимальной производительности при сохранении гибкости и чистоты кодовой базы.
+Начинающий backend-разработчик, изучаю разработку серверных приложений на Python и FastAPI.
 
----
+Работаю с REST API, PostgreSQL, SQLAlchemy, JWT-аутентификацией и Git. Также имею опыт разработки на C# и .NET.
 
-### 🛠 Технические навыки
-
-**Языки программирования:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
-  </a>
-</p>
-
-**Фреймворки и библиотеки:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,dotnet" />
-  </a>
-</p>
-
-**Инструменты и среда:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,docker,postgresql,git,github&theme=dark" />
-  </a>
-</p>
+В своих проектах использую AI-инструменты для изучения технологий, поиска решений, написания и рефакторинга кода, отладки и разработки новых функций.
 
 ---
 
-### 🚀 Мои ключевые проекты
+## 🛠 Технические навыки
 
-1. **[Веб-приложение для управления бизнесами](https://github.com/Zeronka/Fastapi_Backend)**
-   * *Стек:* FastAPI, PostgreSQL, JWT.
-   * Разработка отказоустойчивого серверного ядра для централизованного управления структурой компании, кадровым составом и каталогом услуг в единой цифровой среде. Проект ориентирован на высокую производительность и гибкую настройку бизнес-логики.
-   
+### Языки
 
-2. **[Project Bank Account](https://github.com/Zeronka/Project_Bank_Account)**
-   * *Стек:* C#, .NET.
-   * Реализация логики управления банковскими счетами, работа с балансом и операциями.
+* Python
+* C#
+* SQL
+* JavaScript
+* HTML/CSS
 
-3. **[Bank System](https://github.com/Zeronka/Bank_System)**
-   * *Стек:* C#, .NET.
-   * Комплексная система для банковских транзакций и управления пользователями.
+### Backend
 
-4. **[Frontend Portfolio Project (HTML/JS)](https://github.com/Zeronka/html-js)**
-   * *Стек:* HTML5, JavaScript.
-   * Разработка клиентской части, верстка и создание интерактивных элементов интерфейса.
+* FastAPI
+* REST API
+* Pydantic
+* SQLAlchemy
+* JWT Authentication
+* PostgreSQL
 
+### Инструменты
 
-### 📫 Как со мной связаться:
-* **Telegram:** [@Zeronka1](https://t.me/Zeronka1)
-* **Email:** [yan.aliyev.2000@mail.ru](mailto:yan.aliyev.2000@mail.ru)
+* Git
+* GitHub
+* Docker
+* Linux
+* VS Code
+
+### Дополнительно
+
+* Работа с API
+* JSON
+* HTTP
+* Асинхронный Python
+* Основы ООП
+* Работа с AI-инструментами при разработке
+
+---
+
+## 🚀 Проекты
+
+### [FastAPI Backend](https://github.com/Zeronka/Fastapi_Backend)
+
+Backend-проект на Python для управления организациями, пользователями, услугами и бронированиями.
+
+**Стек:**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `JWT` `Git`
+
+В проекте реализованы:
+
+* REST API;
+* аутентификация и авторизация;
+* работа с пользователями и ролями;
+* работа с организациями;
+* управление услугами и сотрудниками;
+* система бронирований;
+* работа с PostgreSQL через SQLAlchemy;
+* разделение проекта на роутеры, схемы, сервисы и репозитории.
+
+---
+
+### [Project Bank Account](https://github.com/Zeronka/Project_Bank_Account)
+
+Учебный проект на C# и .NET для работы с банковскими счетами.
+
+**Стек:**
+
+`C#` `.NET`
+
+В проекте реализована логика:
+
+* создания и управления банковскими счетами;
+* работы с балансом;
+* выполнения операций со счетами.
+
+---
+
+### [Bank System](https://github.com/Zeronka/Bank_System)
+
+Учебный проект на C# и .NET, посвящённый работе с пользователями и банковскими операциями.
+
+**Стек:**
+
+`C#` `.NET`
+
+---
+
+### [HTML/JS](https://github.com/Zeronka/html-js)
+
+Frontend-проект для практики HTML, CSS и JavaScript.
+
+**Стек:**
+
+`HTML5` `CSS` `JavaScript`
+
+В проекте реализованы:
+
+* структура веб-страницы;
+* стилизация интерфейса;
+* интерактивные элементы на JavaScript.
+
+---
+
+## 🤖 AI в разработке
+
+Использую AI-инструменты как часть процесса разработки:
+
+* изучение новых технологий;
+* поиск и сравнение решений;
+* генерация отдельных частей кода;
+* рефакторинг;
+* поиск и исправление ошибок;
+* разработка и улучшение функций.
+
+При этом стараюсь разбираться в полученном коде и понимать архитектуру и используемые технологии.
+
+---
+
+## 📚 Сейчас изучаю
+
+* Python Backend Development
+* FastAPI
+* PostgreSQL и SQL
+* Docker
+* REST API
+* AI-интеграции и автоматизацию
+* алгоритмы и структуры данных
+
+---
+
+## 📫 Контакты
+
+* Telegram: [@Zeronka1](https://t.me/Zeronka1)
+* Email: [yan.aliyev.2000@mail.ru](mailto:yan.aliyev.2000@mail.ru)
+* GitHub: [github.com/Zeronka](https://github.com/Zeronka)
