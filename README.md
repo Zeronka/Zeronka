@@ -47,6 +47,30 @@
 
 ## 🚀 Проекты
 
+### [BooksAPI](https://github.com/Zeronka/BooksAPI)
+
+REST API для управления библиотекой (авторы и книги). Pet-проект для прокачки архитектурных навыков и работы с полным циклом backend-разработки.
+
+**Стек:**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pydantic` `pytest` `Docker` `Docker Compose`
+
+**Реализовано:**
+
+* архитектура **Router → Service → Repository → Database**;
+* полный CRUD для авторов и книг;
+* пагинация, поиск книг по названию, получение книг по автору;
+* валидация данных через Pydantic;
+* миграции базы данных через Alembic;
+* покрытие unit-тестами (pytest);
+* Docker + Docker Compose с healthcheck PostgreSQL;
+* кастомные исключения в бизнес-логике, HTTP-ответы в слое роутеров;
+* деплой на Render.
+
+**Ссылки:** [GitHub](https://github.com/Zeronka/BooksAPI) • [Демо](https://booksapi-1-hkii.onrender.com/docs)
+
+---
+
 ### [FastAPI Backend](https://github.com/Zeronka/Fastapi_Backend)
 
 Backend-проект на Python для управления организациями, пользователями, услугами и бронированиями.
