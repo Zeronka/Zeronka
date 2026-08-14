@@ -33,6 +33,7 @@
 * Git
 * GitHub
 * Linux
+* Docker / Docker Compose
 * VS Code
 
 ### Дополнительно
